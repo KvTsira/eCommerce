@@ -17,3 +17,9 @@
 * THEN the data for each of these routes is displayed in a formatted JSON
 * WHEN I test API POST, PUT, and DELETE routes in Insomnia
 * THEN I am able to successfully create, update, and delete data in my database
+
+# Description
+This is a backened application for eCommerce site. It uses Express.js APIs and Sequelize to interact a MySQL database via Insomnia. please see the walkthrough videos the demonstrate its functionalities.
+
+# Project Demo
+* [eCommerce backened application Demo video](https://www.youtube.com/watch?v=6bSfrJki1XQ)
